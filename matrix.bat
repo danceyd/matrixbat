@@ -1,6 +1,6 @@
 @echo off
 mode con: cols=80
-title Stay in Wonderland, and I will show you how deep the rabbit hole goes
+title Stay in Wonderland, and I will show you how deep the rabbit hole goes. Go ask Alice
 echo off
 color 06
 :tricks
